@@ -1,4 +1,3 @@
 // Write your code in this file!
 const currentUser = 'Bo Guan'
-const welcomeMessage = 'Welcome to Bo-land'
-
+const welcomeMessage = 'Welcome to Flatbook'
